@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR:Bryan Martinez Ramirez
 # FILENAME: db_connection_mongo.py
-# SPECIFICATION: 
+# SPECIFICATION: Creates documents using nosql databases
 # FOR: CS 4250- Assignment #3
 # TIME SPENT: 4 hours
 #-----------------------------------------------------------*/
